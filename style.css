@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    font-family:monospace;
+    color: #fff;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: #000;
+}
+
+button{
+    border: none;
+    border-radius: 10px;
+    margin: 50px;
+    background-color: white;
+    color: blue;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 9px;
+}
